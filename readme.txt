@@ -1,0 +1,1 @@
+To close the application just drag your mouse to the corner of your screen
